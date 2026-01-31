@@ -1,0 +1,45 @@
+# --------------------
+# Python virtual env
+# --------------------
+venv/
+.venv/
+env/
+
+# --------------------
+# Python cache & build
+# --------------------
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+
+# --------------------
+# Jupyter / IDE
+# --------------------
+.ipynb_checkpoints/
+.vscode/
+.idea/
+
+# --------------------
+# OS files
+# --------------------
+.DS_Store
+Thumbs.db
+
+# --------------------
+# Data / Chat files (WhatsApp exports)
+# --------------------
+*.txt
+
+# If you want to ignore only specific files instead of all .txt, use this instead:
+# WhatsApp Chat with TE CMPN C Unofficial.txt
+# whatsapp.txt
+
+# --------------------
+# Logs & temp
+# --------------------
+*.log
+*.tmp
